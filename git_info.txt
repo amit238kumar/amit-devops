@@ -9,8 +9,7 @@ Ans: the main difference is that the first command only creates the branch, whil
 
 	git branch devlearning + git checkout gitlearning = git checkout -b gitlearning
 
-=>	git add file_name
-	The git add command is used in Git to add changes in the working directory to the staging area. The staging area is like a buffer between your working directory and the actual repository. When you make changes to files in your project, Git needs to know which changes you want to include in the next commit. The git add command allows you to specify these changes.
+=>
 
 
 
