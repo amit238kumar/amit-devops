@@ -1,6 +1,9 @@
 
 Day 1:
 ********************
+=>Difference between git revert and git reset	
+	git reset is used to move the HEAD and current branch pointer, potentially discarding commits or changes, while git revert is used to create new commits that undo the changes introduced by specific commits, preserving the commit history.
+
 => Difference between
 	git branch devlearning
 		and
